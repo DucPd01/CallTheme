@@ -1,6 +1,5 @@
 {
   "gift": [
-    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/gift/gift_01.gif",
     "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/gift/gift_02.gif",
     "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/gift/gift_03.gif",
     "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/gift/gift_04.gif",
@@ -44,5 +43,25 @@
     "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/video/video_19.mp4",
     "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/video/video_20.mp4",
     "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/video/video_21.mp4"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_01.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_02.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_03.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_04.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_05.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_06.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_07.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_08.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_09.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_10.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_11.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_12.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_13.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_14.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_15.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_16.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_17.png",
+    "https://raw.githubusercontent.com/ConfigNeko/CallTheme/main/image/theme_18.png"
   ]
 }
